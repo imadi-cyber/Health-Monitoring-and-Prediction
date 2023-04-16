@@ -21,6 +21,6 @@ skytelearn
 
 
 ## Installation steps
-installed Spider
+installed Spyder
 
 
